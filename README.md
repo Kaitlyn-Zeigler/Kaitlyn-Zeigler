@@ -1,0 +1,3 @@
+- Hello, I’m @Kaitlyn-Zeigler
+- I’m currently a junior at Shippensburg University and am majoring in Computer Science
+- My email is zeigler.kaitlyn@yahoo.com
